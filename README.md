@@ -19,7 +19,8 @@
 ## Geospatial Analysis  
 Using **GeoPandas**, food security indicators are mapped to visualize regional disparities.
 
-**Choropleth Visualizations of Food Security Indicators**  
+**Choropleth Visualizations of Food Security Indicators** 
+
 ![Food Security]([placeholder_image_url](https://lh3.googleusercontent.com/pw/AP1GczMME1qfJhDQnFBW6MPp7oEtByOto4TRvW-HvM6A1xxMnNCbqv_GFKj7xYxGcOpq7Eht-feHGYSaw-p5DuoyE1GL54hdoovBqf7qg0uQNAX8x5lsumYn6fUzzqFOa9J801gTHuRaqnb-vo39nOAlb-Me=w754-h305-s-no-gm?authuser=0))
 ![LT of Proximity Measure](https://lh3.googleusercontent.com/pw/AP1GczP225Yk-z59HTgWA0vFD4CL7A74LtxVgiCvZ8bfc2ztLvdR2ZlBi5gXj7WUW2V1PN28XIiey-i4HVOYg1Iki9uX6uvGRZ1nBAoApLiA-qPL4gN_1XcXJE24tT8WHE50nt-BaDUiHSGrMkpmFR8qohMg=w706-h281-s-no-gm?authuser=0)
 ![Agri](https://lh3.googleusercontent.com/pw/AP1GczOnTw4rPtigxvNHwakKQkPXq9gwib4m5fiz5r_j4gWNizJlnICDOiZLP_Nk3UsQcE9q9TZlJNpGFarZ3vCWXIlLxomCiE9sIMR2YT8GloinqDi7fR-6NT-Bw32M2bIQGyJVI9lpWAKoD3jCsmU-pHrO=w715-h281-s-no-gm?authuser=0)
