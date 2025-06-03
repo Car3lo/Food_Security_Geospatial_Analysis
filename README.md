@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/c77f3bc6-309f-43c9-8baf-889489909abf)# Geospatial Analysis of Food Security  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - This project explores `Geospatial Data`, `Proximity Analysis`, `Linear Algebra`, and `Food Security Impacts` using **Python**
