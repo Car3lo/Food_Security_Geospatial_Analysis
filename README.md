@@ -1,4 +1,4 @@
-# Geospatial Analysis of Food Security  
+![image](https://github.com/user-attachments/assets/c77f3bc6-309f-43c9-8baf-889489909abf)# Geospatial Analysis of Food Security  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - This project explores `Geospatial Data`, `Proximity Analysis`, `Linear Algebra`, and `Food Security Impacts` using **Python**
@@ -21,7 +21,7 @@ Using **GeoPandas**, food security indicators are mapped to visualize regional d
 
 **Choropleth Visualizations of Food Security Indicators** 
 
-![Food Security]([placeholder_image_url](https://lh3.googleusercontent.com/pw/AP1GczMME1qfJhDQnFBW6MPp7oEtByOto4TRvW-HvM6A1xxMnNCbqv_GFKj7xYxGcOpq7Eht-feHGYSaw-p5DuoyE1GL54hdoovBqf7qg0uQNAX8x5lsumYn6fUzzqFOa9J801gTHuRaqnb-vo39nOAlb-Me=w754-h305-s-no-gm?authuser=0))
+![Food Security](https://lh3.googleusercontent.com/pw/AP1GczMME1qfJhDQnFBW6MPp7oEtByOto4TRvW-HvM6A1xxMnNCbqv_GFKj7xYxGcOpq7Eht-feHGYSaw-p5DuoyE1GL54hdoovBqf7qg0uQNAX8x5lsumYn6fUzzqFOa9J801gTHuRaqnb-vo39nOAlb-Me=w754-h305-s-no-gm?authuser=0)
 ![LT of Proximity Measure](https://lh3.googleusercontent.com/pw/AP1GczP225Yk-z59HTgWA0vFD4CL7A74LtxVgiCvZ8bfc2ztLvdR2ZlBi5gXj7WUW2V1PN28XIiey-i4HVOYg1Iki9uX6uvGRZ1nBAoApLiA-qPL4gN_1XcXJE24tT8WHE50nt-BaDUiHSGrMkpmFR8qohMg=w706-h281-s-no-gm?authuser=0)
 ![Agri](https://lh3.googleusercontent.com/pw/AP1GczOnTw4rPtigxvNHwakKQkPXq9gwib4m5fiz5r_j4gWNizJlnICDOiZLP_Nk3UsQcE9q9TZlJNpGFarZ3vCWXIlLxomCiE9sIMR2YT8GloinqDi7fR-6NT-Bw32M2bIQGyJVI9lpWAKoD3jCsmU-pHrO=w715-h281-s-no-gm?authuser=0)
 ![Trade](https://lh3.googleusercontent.com/pw/AP1GczPl69oXcg6mGZXDjFUMkx9sRSmVRCtbP6v0PI8zGncA3hy07vsx_KhZhK8EKFA2cvovyqsP2KDJealyqo4bNCNsuRqpwEBXhP_HBoliHXMRVTGxiCZfifBrZfWm-JT1-V2YDdjtH9_FfwqHrcAwVm_Z=w706-h281-s-no-gm?authuser=0)
